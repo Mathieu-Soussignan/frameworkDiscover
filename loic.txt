@@ -33,4 +33,7 @@ De plus, Svelte serait très facile à apprendre pour les développeurs expérim
 car il utilise un syntaxe proche de JavaScript standard. 
 Cependant, Svelte est encore relativement nouveau et peut ne pas avoir la même quantité de ressources et de communauté disponibles que d'autres frameworks plus établis. 
 En général, Svelte est une bonne option pour les projets de petite à moyenne envergure, ou pour ceux qui cherchent une expérience de développement plus légère et rapide.
-On crée un fichier app.svelte la ou y inscrit notre code java scripte on est plus obligé de manipuler le DOM c'est le framework qui va s'en charger
+On crée un fichier app.svelte la ou y inscrit notre code java scripte on est plus obligé de manipuler le DOM c'est le framework qui va s'en charger.
+
+
+l
