@@ -1,0 +1,22 @@
+VUE.JS
+
+Les Framework ont été créés pour structurer et developper un site, créer une organisation claire entre les différents langages au sein d'une page web.
+Vue.js est un framework JavaScript open-source pour le développement d'applications web. Il est conçu pour être simple, léger et flexible, et pour offrir une alternative aux frameworks plus lourds comme Angular et React.
+
+
+
+1 - Vue.js est particulièrement accessible. Il est simple et facile à apprendre pour les développeurs débutants car il permet de simplifier le développement. Sa prise en main et sa logique sont rapides à comprendre. 
+
+2 - Malgré sa facilité d'utilisation, il est très performant et flexible. Il peut être utilisé pour des projets de petite à moyenne envergure. Less applications conçues avec Vue sont ultras légères. C'est un "progressive framework", c'est à dire qu'on peut l'utiliser sur l'entièreté du site ou sur juste une partie. Le framework s’exécute directement depuis le navigateur ce qui facilite le processus de test.
+
+
+3 - Vue.js a été créé en 2014 par Evan You et est 100% indépendant contrairement à React créé par facebook ou angular créé par google. Il faut cependant noter qu'Evan You a créé Vue.js alors qu’il travaillait chez Google. Il est donc sur certains points similaire à Angular, le framework JavaScript de Google.
+
+4 -  C'est un projet open-source indépendant développé par la communauté, ce qui signifie que les développeurs peuvent y participer et contribuer à son développement. Il n'est donc pas influencé par les priorités et les intérêts d'une entreprise spécifique. C'est un avantage pour les développeurs qui cherchent à utiliser un framework stable et fiable qui ne dépend pas de la stratégie commerciale d'une entreprise. 
+
+5 - Vue.js a une documentation détaillée et une grande communauté de développeurs. Il est polyvalent et peut intégrer beaucoup de librairies et frameworks. 
+
+6 - Vue.js est en constante évolution, avec des mises à jour fréquentes et des améliorations pour les performances et les fonctionnalités. 
+
+
+
