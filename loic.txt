@@ -36,4 +36,4 @@ En général, Svelte est une bonne option pour les projets de petite à moyenne 
 On crée un fichier app.svelte la ou y inscrit notre code java scripte on est plus obligé de manipuler le DOM c'est le framework qui va s'en charger.
 
 
-l
+kqk
