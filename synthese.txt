@@ -1,0 +1,27 @@
+Présentation Angular
+
+1.	Angular est un Framework open-source développé par Google pour créer des applications web.
+    Il est construit sur le moteur de rendu JavaScript, ce qui le rend compatible avec un grand nombre de navigateurs.
+
+2.	Angular utilise le langage de programmation Type Script, qui offre des fonctionnalités telles que la vérification de type statique et la mise en œuvre de fonctionnalités orientées objet.
+
+3.	Angular est basé sur le modèle de composant, ce qui signifie qu'une application Angular est divisée en composants distincts, chacun étant responsable de gérer une partie spécifique de l'interface utilisateur.
+    Les composants peuvent être réutilisés à travers l'application, ce qui permet une maintenance plus facile et une meilleure organisation du code.
+
+4.	Angular fournit une gamme complète d'outils pour développer des applications riches en fonctionnalités, notamment des services pour la liaison de données, la validation de formulaire, la navigation, les animations, etc.
+    Il offre également une large sélection de bibliothèques tierces pour étendre ses fonctionnalités.
+
+5.	Angular a été conçu pour être testable, avec des outils intégrés pour les tests unitaires et d'intégration.
+    Cela permet de garantir la qualité du code et d'éviter les bogues coûteux à corriger plus tard dans le cycle de développement.
+
+6.	Angular est utilisé pour développer des applications web single-page, offrant une expérience utilisateur fluide et dynamique sans avoir besoin de recharger complètement la page.
+    Cela accélère le temps de réponse de l'application et améliore l'expérience utilisateur globale.
+
+7.	Angular utilise un système de modification de modèle basé sur la réactivité, ce qui signifie que lorsqu'une donnée de modèle change, l'interface utilisateur est automatiquement mise à jour pour refléter ces modifications.
+
+8.	Angular fournit une gamme complète d'outils pour optimiser les performances, notamment une gestion avancée du change détection, une prise en charge des changements à partir de bout en bout et une stratégie de mise en cache efficace.
+
+9.	Angular propose un environnement de développement productif avec un CLI intégré pour générer rapidement des composants, des pages et des services, ainsi qu'une gamme d'outils pour faciliter le débogage et la mise au point.
+
+10.	Angular est largement adopté par la communauté de développeurs web et bénéficie d'une forte présence en ligne avec de nombreuses ressources en ligne telles que des tutoriels, des forums et des bibliothèques de composants tierces.
+    Cela signifie que vous avez accès à une aide rapide et efficace pour tout problème que vous pourriez rencontrer lors du développement d'une application Angular.
