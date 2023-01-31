@@ -1,0 +1,39 @@
+                                                                     SVELTE JS
+
+
+Svelte est un framework JavaScript pour développer des applications web interactives. 
+C'est est un outil de développement d'applications web qui se concentre sur la performance et la simplicité. 
+Il diffère des autres frameworks en générant du code HTML, CSS et JavaScript lors de la compilation 
+au lieu de gérer le rendu via une virtual DOM. 
+Cela signifie que les applications Svelte sont plus rapides 
+et consomment moins de ressources que les applications développées avec d'autres frameworks. 
+De plus, Svelte est facile à apprendre et à utiliser pour les développeurs débutants et expérimentés.
+
+
+Les avantages de Svelte:
+
+- Performance améliorée, Svelte génère du code HTML, CSS et JavaScript 
+  c'est un compilateur qui générent moins de ressources que les applications développées avec d'autres frameworks.
+- Simplicité: Svelte a une syntaxe simple et intuitive, ce qui facilite la compréhension et la maintenance du code.
+- Taille réduite: Les applications Svelte sont généralement plus petites en termes de taille de  code que les applications développées avec d'autres frameworks, 
+  ce qui signifie qu'elles se chargent plus rapidement.
+
+Les inconvénients de Svelte:
+- Moins de flexibilité: Svelte ne fournit pas autant de fonctionnalités que d'autres frameworks, 
+  ce qui peut rendre plus difficile la résolution de certains problèmes.
+- Communauté plus petite: La communauté Svelte est plus petite que celle de certains autres frameworks populaires, 
+  ce qui signifie qu'il peut être plus difficile de trouver de l'aide en cas de besoin.
+- Moins de documentation: La documentation de Svelte est encore en développement et peut ne pas être aussi complète que celle de certains autres frameworks.
+
+
+  Pour conclure Svelte est donc un framework JavaScript pour développer des applications web. 
+Il se distingue par son approche, ce n'est pas tellement une librairie mais un compilateur 
+qui permet une performance accrue par rapport à d'autres frameworks basés sur des modèles de rendu en temps réel. 
+De plus, Svelte serait très facile à apprendre pour les développeurs expérimentés en JavaScript, 
+car il utilise un syntaxe proche de JavaScript standard. 
+Cependant, Svelte est encore relativement nouveau et peut ne pas avoir la même quantité de ressources et de communauté disponibles que d'autres frameworks plus établis. 
+En général, Svelte est une bonne option pour les projets de petite à moyenne envergure, ou pour ceux qui cherchent une expérience de développement plus légère et rapide.
+On crée un fichier app.svelte la ou y inscrit notre code java scripte on est plus obligé de manipuler le DOM c'est le framework qui va s'en charger.
+
+
+kqk
